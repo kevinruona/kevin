@@ -1,0 +1,4 @@
+print"hello world"
+print"are you good bro?"
+if "yes" print"ok"
+if "no" print"why?"
